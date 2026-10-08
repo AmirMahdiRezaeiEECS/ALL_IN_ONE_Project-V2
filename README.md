@@ -26,7 +26,9 @@
 
 ---
 ## Web Application 
-<img width="1080" height="608" alt="V2P22" src="https://github.com/user-attachments/assets/42b0134c-ba49-4753-ac8e-95ddc090fef2" />
+
+https://github.com/user-attachments/assets/aa88196a-9b46-4746-9fb3-7068d16aee7b
+
 
 ---
 ## Overview
